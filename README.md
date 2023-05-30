@@ -1,4 +1,4 @@
-## :file_folder: Desafio CSS
+## :file_folder: CSS responsivo
 
 <p>Este foi um projeto desenvolvido através de um Figma com CSS e layout responsivo através do media query</p>
 
